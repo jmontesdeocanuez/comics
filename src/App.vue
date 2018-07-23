@@ -4,7 +4,7 @@
     <router-view/>
   </div>
 </template>
-sdfds
+
 <script>
 export default {
   name: 'App'
